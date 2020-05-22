@@ -1,2 +1,1 @@
-# trt
-The Renewed Testament
+# The Renewed Testament
